@@ -1,0 +1,8 @@
+sudoku0.txt 1
+sudoku1.txt 1
+sudoku10.txt 1
+sudoku2.txt 2
+sudiku1.txt 3
+sudoku3.txt 3
+sudokuEvil.txt 5
+qwdqwe 2147483647
